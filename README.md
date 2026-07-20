@@ -48,11 +48,6 @@ This project analyzes:
   - Pivot Tables
   - Summary reporting
 
-- **Power BI (Optional)**
-  - Interactive dashboard creation
-  - Data visualization
-  - KPI reporting
-
 ## 🔍 Data Preparation & Feature Engineering
 
 The original German Credit dataset was enhanced by creating additional columns:
@@ -113,12 +108,6 @@ SQL queries answer business questions such as:
 - Find high-risk customers with above-average loan amounts
 - Create customer risk segmentation using CASE WHEN logic
 
-## ▶️ How to Use
-
-1. Download the German Credit dataset.
-2. Load the dataset into a SQL database table named `credit_data`.
-3. Run SQL queries from the `/sql` folder.
-4. Open the Excel file to explore Pivot Table analysis and insights.
 
 ## 👤 Author
 
